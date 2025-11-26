@@ -3,7 +3,7 @@ import { Service, Testimonial, GalleryItem, NavItem } from './types';
 // Curated high-quality images of Black women and luxury salon aesthetics
 export const IMAGES = {
   // Hero background: Elegant Black woman with luxurious hair
-  HERO_BG: "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=2560&auto=format&fit=crop",
+  HERO_BG: "alice-1.jfif",
   
   // About Section Images
   ABOUT_HERO: "https://images.unsplash.com/photo-1633681926022-84c23e8cb22a?q=80&w=2000&auto=format&fit=crop", // Warm luxury salon interior
@@ -14,20 +14,20 @@ export const IMAGES = {
 
   // Services
   SERVICES: {
-    SILK_PRESS: "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?q=80&w=800&auto=format&fit=crop", // Smooth straight hair
-    BRAIDS: "https://images.unsplash.com/photo-1624955743632-1b15c26920f7?q=80&w=800&auto=format&fit=crop", // Intricate braids
-    EXTENSIONS: "https://images.unsplash.com/photo-1519699047748-40baea614fee?q=80&w=800&auto=format&fit=crop", // Voluminous extensions
-    COLOR: "https://images.unsplash.com/photo-1522337360705-2bbd995ce1d1?q=80&w=800&auto=format&fit=crop" // Colored afro texture
+    SILK_PRESS: "alice-2.jfif", // Smooth straight hair
+    BRAIDS: "alice-3.jfif", // Intricate braids
+    EXTENSIONS: "alice-4.jfif", // Voluminous extensions
+    COLOR: "alice-5.jfif" // Colored afro texture
   },
 
   // Gallery: Diverse Black hairstyles
   GALLERY: [
-    "https://images.unsplash.com/photo-1582095133179-bfd08d3ba988?q=80&w=600&auto=format&fit=crop", // Styling chair
-    "https://images.unsplash.com/photo-1607519968434-df0a256d0d29?q=80&w=600&auto=format&fit=crop", // Natural hair profile
-    "https://images.unsplash.com/photo-1596483584347-75e3c794025d?q=80&w=600&auto=format&fit=crop", // Braids back view
-    "https://images.unsplash.com/photo-1617056636737-1c640e439243?q=80&w=600&auto=format&fit=crop", // Styling process
-    "https://images.unsplash.com/photo-1502452213363-1a2dcd6b60e8?q=80&w=600&auto=format&fit=crop", // Afro art
-    "https://images.unsplash.com/photo-1584297091622-af8e55da2165?q=80&w=600&auto=format&fit=crop"  // Texture macro
+    "alice-3.jfif", // Styling chair
+    "alice-4.jfif", // Natural hair profile
+    "alice-5.jfif", // Braids back view
+    "alice-6.jfif", // Styling process
+    "alice-2.jfif", // Afro art
+    "alice-1.jfif"  // Texture macro
   ]
 };
 

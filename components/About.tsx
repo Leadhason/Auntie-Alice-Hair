@@ -87,7 +87,7 @@ const About: React.FC = () => {
             </h2>
             <div className="space-y-6 text-stone-600 font-light text-lg leading-relaxed">
               <p>
-                For over 20 years, Alice has been a pillar in the hair care community. Starting in her mother's kitchen and expanding to renowned salons across Atlanta and LA, she mastered the art of listening to hair.
+                For over 20 years, Alice has been a pillar in the hair care community. Starting in her mother's kitchen and expanding to renowned salons across Accra and internationally, she mastered the art of listening to hair.
               </p>
               <p>
                 Auntie Alice Hair Center was established to bring a sense of home back to the salon experience. "I noticed that high-end salons often felt cold," Alice says. "I wanted to create a place that felt like visiting family—if your family happened to be world-class styling experts."

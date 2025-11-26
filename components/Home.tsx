@@ -5,7 +5,6 @@ import Testimonials from './Testimonials';
 import { SERVICES } from '../constants';
 import { ArrowRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
-
 const Home: React.FC = () => {
   return (
     <>

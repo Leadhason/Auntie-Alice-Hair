@@ -106,7 +106,7 @@ const Booking: React.FC = () => {
                             </div>
                             <div>
                                 <label className="block text-xs font-bold uppercase tracking-widest text-stone-500 mb-2">Phone</label>
-                                <input type="tel" className="w-full bg-stone-50 border border-stone-200 p-4 focus:border-amber-400 outline-none transition-colors" placeholder="(555) 123-4567" />
+                                <input type="tel" className="w-full bg-stone-50 border border-stone-200 p-4 focus:border-amber-400 outline-none transition-colors" placeholder="+233 24 360 1675" />
                             </div>
                         </div>
 

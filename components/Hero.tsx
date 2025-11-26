@@ -65,7 +65,7 @@ const Hero: React.FC = () => {
       </div>
 
       {/* Content */}
-      <div className="relative z-10 container mx-auto px-6 text-center">
+      <div className="relative z-10 mt-10 container mx-auto px-6 text-center">
         <h2 className="text-amber-400 tracking-[0.3em] uppercase text-sm md:text-base mb-4 animate-fade-in-up">
           Welcome to Auntie Alice Hair Center
         </h2>
