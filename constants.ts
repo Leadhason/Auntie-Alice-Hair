@@ -23,7 +23,8 @@ export const IMAGES = {
   // Gallery: Diverse Black hairstyles
   GALLERY: [
     "/alice-3.jfif", // Styling chair
-    "/alice-6.jfif", // Styling process
+    "/alice-6.jfif",
+    "/alice-4.jfif", // Styling process
     "/alice-2.jfif", // Afro art
     "/alice-1.jfif"  // Texture macro
   ]
