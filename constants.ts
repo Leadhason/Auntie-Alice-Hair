@@ -3,31 +3,29 @@ import { Service, Testimonial, GalleryItem, NavItem } from './types';
 // Curated high-quality images of Black women and luxury salon aesthetics
 export const IMAGES = {
   // Hero background: Elegant Black woman with luxurious hair
-  HERO_BG: "alice-1.jfif",
+  HERO_BG: "/alice-7.jfif",
   
   // About Section Images
   ABOUT_HERO: "https://images.unsplash.com/photo-1633681926022-84c23e8cb22a?q=80&w=2000&auto=format&fit=crop", // Warm luxury salon interior
-  ABOUT_ZAI: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=1000&auto=format&fit=crop", // Professional headshot
+  ABOUT_ZAI: "/auntie-alice.png", // Professional headshot
   PHILOSOPHY_BG: "https://images.unsplash.com/photo-1620331311520-246422fd82f9?q=80&w=2000&auto=format&fit=crop", // Texture close-up
   SALON_DETAIL: "https://images.unsplash.com/photo-1560066984-138dadb4c035?q=80&w=1600&auto=format&fit=crop", // Modern salon vibe
   PROCESS: "https://images.unsplash.com/photo-1522337660859-02fbefca4702?q=80&w=1200&auto=format&fit=crop", // Washing hair/Process
 
   // Services
   SERVICES: {
-    SILK_PRESS: "alice-2.jfif", // Smooth straight hair
-    BRAIDS: "alice-3.jfif", // Intricate braids
-    EXTENSIONS: "alice-4.jfif", // Voluminous extensions
-    COLOR: "alice-5.jfif" // Colored afro texture
+    SILK_PRESS: "/alice-2.jfif", // Smooth straight hair
+    BRAIDS: "/alice-3.jfif", // Intricate braids
+    EXTENSIONS: "/alice-1.jfif", // Voluminous extensions
+    COLOR: "/alice-7.jfif" // Colored afro texture
   },
 
   // Gallery: Diverse Black hairstyles
   GALLERY: [
-    "alice-3.jfif", // Styling chair
-    "alice-4.jfif", // Natural hair profile
-    "alice-5.jfif", // Braids back view
-    "alice-6.jfif", // Styling process
-    "alice-2.jfif", // Afro art
-    "alice-1.jfif"  // Texture macro
+    "/alice-3.jfif", // Styling chair
+    "/alice-6.jfif", // Styling process
+    "/alice-2.jfif", // Afro art
+    "/alice-1.jfif"  // Texture macro
   ]
 };
 
