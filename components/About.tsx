@@ -29,7 +29,7 @@ const About: React.FC = () => {
       <div className="relative h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
           <img 
-            src={IMAGES.ABOUT_HERO} 
+            src="https://images.unsplash.com/photo-1620331311520-246422fd82f9?q=80&w=2000&auto=format&fit=crop" 
             alt="Auntie Alice Hair Center Interior" 
             className="w-full h-full object-cover object-center"
           />
@@ -65,7 +65,7 @@ const About: React.FC = () => {
              <div className="absolute -bottom-10 -right-10 w-48 h-48 bg-stone-100 rounded-full z-0 opacity-50 blur-3xl"></div>
              
              <img 
-               src={IMAGES.ABOUT_ZAI} 
+               src="/auntie-alice.png" 
                alt="Auntie Alice - Founder" 
                className="relative z-10 w-full aspect-[4/5] object-cover shadow-2xl rounded-sm"
              />

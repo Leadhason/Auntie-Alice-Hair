@@ -57,9 +57,9 @@ const Hero: React.FC = () => {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img 
-          src={IMAGES.HERO_BG} 
+          src="/alice-7.jfif" 
           alt="Luxury Hair Model" 
-          className="w-full h-full object-cover object-top"
+          className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/30 to-black/80"></div>
       </div>
@@ -101,7 +101,7 @@ const Hero: React.FC = () => {
       {/* Scroll Indicator */}
       <div 
         onClick={() => scrollTo('services')}
-        className="absolute bottom-10 left-1/2 -translate-x-1/2 text-white animate-bounce delay-1200 opacity-0 animate-fade-in-up cursor-pointer hover:text-amber-400 transition-colors" 
+        className="absolute bottom-10 left-1/2 -translate-x-1/2 text-white animate-bounce delay-1200 opacity-0 animate-fade-in-up cursor-pointer hover:text-amber-400 transition-colors animate-bounce" 
         style={{ animationDelay: '2s' }}
       >
         <ArrowDown className="w-6 h-6 opacity-70" />
